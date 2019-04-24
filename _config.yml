@@ -48,3 +48,6 @@ baseurl: ""
 permalink: /:title/
 
 theme: jekyll-theme-slate
+
+# eigene Variablen
+showLSG: false
